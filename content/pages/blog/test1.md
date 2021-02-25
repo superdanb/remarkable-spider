@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: New Post
 subtitle: lorem-ipsum
 date: '2021-02-25'
 categories: []
