@@ -14,7 +14,7 @@ sections:
       - label: Buy Now
         url: /addcart?utm=hpbutton
         style: secondary
-      - label: lorem-ipsum
+      - label: This should be first
         url: lorem-ipsum
         style: secondary
         has_icon: false
