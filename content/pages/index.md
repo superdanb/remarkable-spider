@@ -12,7 +12,7 @@ sections:
         url: /pricing
         style: primary
       - label: Buy Now
-        url: /features
+        url: /addcart?utm=
         style: secondary
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
