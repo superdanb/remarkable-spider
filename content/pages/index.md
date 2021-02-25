@@ -8,12 +8,6 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
     actions:
-      - label: Try Free
-        url: /pricing
-        style: primary
-      - label: Buy Now
-        url: /addcart?utm=hpbutton
-        style: secondary
       - label: This should be first
         url: lorem-ipsum
         style: secondary
@@ -23,6 +17,12 @@ sections:
         new_window: false
         no_follow: false
         type: action
+      - label: Try Free
+        url: /pricing
+        style: primary
+      - label: Buy Now
+        url: /addcart?utm=hpbutton
+        style: secondary
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
     media_position: left
